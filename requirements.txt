@@ -1,0 +1,6 @@
+Libreries used:
+
+pandas: data frame manipulation
+matplotlib and seaborn: visualization
+sklearn: Kmeans, normalization
+
